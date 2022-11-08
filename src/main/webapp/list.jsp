@@ -13,7 +13,7 @@
 </head>
 <body>
 
-test
+
 	
 <%
 //	테이블에 저장된 전체 카테고리 목록을 얻어와서 CategoryList 클래스의 ArrayList에 저장한 후
