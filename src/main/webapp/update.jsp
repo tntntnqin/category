@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<div>test    얌얌    </div>
 <%
 	request.setCharacterEncoding("UTF-8");
 %>
