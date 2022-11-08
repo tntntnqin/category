@@ -10,6 +10,7 @@
 </head>
 <body>
 
+	test
 <%
 	request.setCharacterEncoding("UTF-8");
 %>
